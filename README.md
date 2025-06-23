@@ -36,6 +36,17 @@ This project performs an in-depth analysis of Netflix’s catalog using Python. 
 
 ---
 
+## 📌 Key Insights and Visualizations
+
+- **Content Type Distribution**: Pie chart showing proportion of Movies vs TV Shows.
+- **Top Contributing Countries**: Bar graph of countries producing most content.
+- **Yearly Trends**: Line plot showing content added per year.
+- **Genre Analysis**: Word cloud and frequency count of genres.
+- **Rating Distribution**: Heatmap showing how content is rated by type.
+- **Top Directors/Actors**: Filtered frequency tables for names.
+
+---
+
 ## 🛠️ Tools Used
 
 - Python
